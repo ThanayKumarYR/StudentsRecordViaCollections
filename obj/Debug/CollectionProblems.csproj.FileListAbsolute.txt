@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\CollectionProblems\bin\Debug\CollectionProblems.exe.config
+C:\Users\Thanay\source\repos\CollectionProblems\bin\Debug\CollectionProblems.exe
+C:\Users\Thanay\source\repos\CollectionProblems\bin\Debug\CollectionProblems.pdb
+C:\Users\Thanay\source\repos\CollectionProblems\obj\Debug\CollectionProblems.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\CollectionProblems\obj\Debug\CollectionProblems.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\CollectionProblems\obj\Debug\CollectionProblems.exe
+C:\Users\Thanay\source\repos\CollectionProblems\obj\Debug\CollectionProblems.pdb
